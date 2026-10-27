@@ -26,7 +26,7 @@ A inscrição separada evita assumir que um atleta permanece no mesmo clube ao l
 
 ## 3. Diagrama Mermaid
 
-Cole o bloco no [Mermaid Live Editor](https://mermaid.live/).
+![Diagrama mermaid](/derMERMAID.png)
 
 ```mermaid
 erDiagram
