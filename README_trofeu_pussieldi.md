@@ -239,6 +239,8 @@ O identificador `1` é **exemplo**: substitua pelo ID real do campeonato cadastr
 
 ## 6. Log real da interação com IA (resumo; anexar histórico integral)
 
+https://chatgpt.com/share/6adfedcf-6340-83e9-bf60-36a20c343c32
+
 **26/10/2026 — Prompt inicial do usuário:** forneceu o enunciado completo e pediu diagrama Mermaid, procedures SQL, justificativas e log.
 
 **Resposta inicial da IA:** propôs seis entidades (CAMPEONATO, CLUBE, CATEGORIA, ATLETA, PROVA e RESULTADO) e procedures de medalhas/desempenho. Essa proposta **não estava validada na FASE Aquática**. Atribuiu incorretamente relacionamentos identificadores apesar de usar PKs independentes e assumiu regras etárias sem comprovação específica de 2025.
